@@ -30,9 +30,9 @@
 			<key>Required</key>
 			<true/>
 			<key>Name</key>
-			<string>Also create worker</string>
+			<string>Also create a Worker</string>
 			<key>Description</key>
-			<string>The worker to create</string>
+			<string>Workers define a unit of asynchronous work</string>
 			<key>Type</key>
 			<string>checkbox</string>
 			<key>Default</key>
@@ -40,13 +40,13 @@
 		</dict>
 		<dict>
 			<key>Identifier</key>
-			<string>observableType</string>
+			<string>streamType</string>
 			<key>Required</key>
 			<true/>
 			<key>Name</key>
-			<string>ObservableType:</string>
+			<string>Uses:</string>
 			<key>Description</key>
-			<string>The observable type to use - Observable or SignalProducer</string>
+			<string>Whether to use RxSwift or ReactiveSwift</string>
 			<key>Type</key>
 			<string>popup</string>
 			<key>Default</key>
