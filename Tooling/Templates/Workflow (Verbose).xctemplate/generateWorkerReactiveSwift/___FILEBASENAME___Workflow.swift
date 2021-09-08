@@ -1,1 +1,1 @@
-/Users/monishsyed/Development/Personal/workflow-swift/Tooling/Templates/Workflow (Verbose).xctemplate/Default/___FILEBASENAME___Workflow.swift
+Tooling/Templates/Workflow (Verbose).xctemplate/Default/___FILEBASENAME___Workflow.swift
